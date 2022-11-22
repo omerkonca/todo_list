@@ -1,0 +1,4 @@
+#Sun Nov 20 21:41:56 TRT 2022
+base.0=C\:\\Users\\omerk\\Desktop\\Flutter Projects\\ToDoFlutter-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
